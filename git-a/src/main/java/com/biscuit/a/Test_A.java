@@ -9,6 +9,7 @@ public class Test_A {
         System.out.println("master-branch-init-git-project");
         System.out.println("github-html-update-body-idea-pull-test");
         System.out.println("master-branch-update");
+        System.out.println("branch conflict marge test - hot-fix branch");
         System.out.println("branch conflict merge test - master branch");
     }
 }
